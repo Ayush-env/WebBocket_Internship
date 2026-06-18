@@ -1,6 +1,7 @@
-#Conditional statements
+1) Conditional statements
 <br>
-1) Simple If
+
+i) Simple If
 <br>
 if condition:<br>
   code to execute if condition is true
@@ -9,7 +10,7 @@ a = -10<br>
 if a>0:<br>
   print("Num is pos")<br><br>
 
-2) If-Else<br>
+ii) If-Else<br>
 if condition:<br>
   code to execute if condition is true<br>
 else:<br>
@@ -21,7 +22,7 @@ if a>0<br>
 else:<br>
   print("Num is neg")<br><br>
 
-3) Elif<br>
+iii) Elif<br>
 
 if condition1:<br>
   code to execute if condition is true<br>
@@ -37,3 +38,6 @@ elif a<0:<br>
   print("Num is neg")<br>
 else:<br>
   print("Num is zero")
+
+2) Match Case: 
+  it is a switch case in terms of python
